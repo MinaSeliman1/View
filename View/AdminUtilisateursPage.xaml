@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="View.AdminUtilisateursPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:vm="clr-namespace:Bibliotheque.ViewModel;assembly=Bibliotheque.ViewModel"
+    xmlns:model="clr-namespace:Bibliotheque.Model;assembly=Bibliotheque.Model"
+    x:DataType="vm:AdminUtilisateursViewModel"
+    Title="Gestion des utilisateurs">
+
+    <Grid RowDefinitions="Auto,*" Padding="20">
+
+        <!-- HEADER -->
+        <VerticalStackLayout Grid.Row="0" Spacing="15">
+            <Button Text="← Retour à l'espace administrateur"
+                    HorizontalOptions="Start"
+                    Clicked="OnRetourClicked" />
+
+            <Label Text="Gestion des utilisateurs"
+                   FontSize="24"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center"
+                   TextColor="White" />
+        </VerticalStackLayout>
+
+        <!-- LISTE SCROLLABLE -->
+        <CollectionView Grid.Row="1"
+                        ItemsSource="{Binding ComptesClients}"
+                        Margin="0,10,0,0"
+                        ItemsLayout="VerticalList">
+
+            <CollectionView.EmptyView>
+                <Label Text="Aucun compte client à afficher."
+                       HorizontalOptions="Center"
+                       VerticalOptions="CenterAndExpand"
+                       Opacity="0.7"
+                       TextColor="White" />
+            </CollectionView.EmptyView>
+
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="model:Compte">
+                    <Frame Padding="10"
+                           Margin="0,5"
+                           CornerRadius="10"
+                           HasShadow="True"
+                           BackgroundColor="#222222">
+
+                        <VerticalStackLayout Spacing="2">
+                            <Label Text="{Binding Nom}"
+                                   FontAttributes="Bold"
+                                   FontSize="18"
+                                   TextColor="White" />
+
+                            <Label Text="{Binding Prenom}"
+                                   FontSize="14"
+                                   Opacity="0.8"
+                                   TextColor="White" />
+
+                            <Label Text="{Binding Email}"
+                                   FontSize="14"
+                                   Opacity="0.8"
+                                   TextColor="White" />
+                        </VerticalStackLayout>
+
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+    </Grid>
+</ContentPage>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="View.LoginPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:vm="clr-namespace:Bibliotheque.ViewModel;assembly=Bibliotheque.ViewModel"
+    x:DataType="vm:LoginViewModel"
+    Title="Connexion">
+
+    <VerticalStackLayout Padding="20" Spacing="12">
+
+        <Label Text="Connexion"
+               FontSize="24"
+               FontAttributes="Bold"
+               HorizontalOptions="Center"
+               TextColor="White" />
+
+        <Entry Placeholder="Courriel"
+               Keyboard="Email"
+               Text="{Binding Email}" />
+
+        <Entry Placeholder="Mot de passe"
+               IsPassword="True"
+               Text="{Binding MotDePasse}" />
+
+        <Label Text="{Binding Message}"
+               TextColor="Red"
+               HorizontalOptions="Center" />
+
+        <Button Text="Se connecter"
+                Command="{Binding SeConnecterCommand}" />
+
+    </VerticalStackLayout>
+</ContentPage>

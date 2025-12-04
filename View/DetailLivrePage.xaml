@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="View.DetailLivrePage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:vm="clr-namespace:Bibliotheque.ViewModel;assembly=Bibliotheque.ViewModel"
+    x:DataType="vm:DetailLivreViewModel"
+    Title="Détails du livre">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="12">
+
+            <!-- Bouton retour -->
+            <Button Text="← Retour"
+                    HorizontalOptions="Start"
+                    Clicked="OnRetourClicked" />
+
+            <!-- Titre -->
+            <Label Text="{Binding Livre.Titre}"
+                   FontSize="24"
+                   FontAttributes="Bold"
+                   TextColor="White"
+                   HorizontalOptions="Center" />
+
+            <!-- Auteur -->
+            <HorizontalStackLayout Spacing="4">
+                <Label Text="Auteur :"
+                       FontSize="16"
+                       TextColor="White" />
+                <Label Text="{Binding Livre.Auteur}"
+                       FontSize="16"
+                       TextColor="White" />
+            </HorizontalStackLayout>
+
+            <!-- ISBN -->
+            <HorizontalStackLayout Spacing="4">
+                <Label Text="ISBN :"
+                       FontSize="14"
+                       TextColor="White" />
+                <Label Text="{Binding Livre.ISBN}"
+                       FontSize="14"
+                       TextColor="White" />
+            </HorizontalStackLayout>
+
+            <!-- Maison d’édition -->
+            <HorizontalStackLayout Spacing="4">
+                <Label Text="Maison d'édition :"
+                       FontSize="14"
+                       TextColor="White" />
+                <Label Text="{Binding Livre.MaisonEdition}"
+                       FontSize="14"
+                       TextColor="White" />
+            </HorizontalStackLayout>
+
+            <!-- Date de publication -->
+            <HorizontalStackLayout Spacing="4">
+                <Label Text="Date de publication :"
+                       FontSize="14"
+                       TextColor="White" />
+                <Label Text="{Binding Livre.DatePublication, StringFormat='{0:yyyy-MM-dd}'}"
+                       FontSize="14"
+                       TextColor="White" />
+            </HorizontalStackLayout>
+
+            <!-- Note moyenne -->
+            <HorizontalStackLayout Spacing="4">
+                <Label Text="Note moyenne :"
+                       FontSize="14"
+                       TextColor="White" />
+                <Label Text="{Binding Livre.MoyenneEvaluation, StringFormat='{0:0.0}/5'}"
+                       FontSize="14"
+                       TextColor="White" />
+            </HorizontalStackLayout>
+
+            <!-- Nombre d’évaluations -->
+            <HorizontalStackLayout Spacing="4">
+                <Label Text="Nombre d'évaluations :"
+                       FontSize="14"
+                       TextColor="White" />
+                <Label Text="{Binding Livre.NombreEvaluations}"
+                       FontSize="14"
+                       TextColor="White" />
+            </HorizontalStackLayout>
+
+            <BoxView HeightRequest="1"
+                     Color="#555"
+                     Margin="0,10,0,10" />
+
+            <!-- Description -->
+            <Label Text="Description"
+                   FontSize="18"
+                   FontAttributes="Bold"
+                   TextColor="White" />
+
+            <Label Text="{Binding Livre.Description}"
+                   FontSize="14"
+                   TextColor="White" />
+
+            <!-- ====== SECTION ÉVALUATION UTILISATEUR ====== -->
+
+            <BoxView HeightRequest="1"
+                     Color="#555"
+                     Margin="0,20,0,10" />
+
+            <Label Text="Votre évaluation (0 à 5)"
+                   FontSize="18"
+                   FontAttributes="Bold"
+                   TextColor="White" />
+
+            <!-- Slider : SANS StepFrequency -->
+            <Slider Minimum="0"
+                    Maximum="5"
+                    Value="{Binding NoteEnCours, Mode=TwoWay}" />
+
+            <Label Text="{Binding NoteEnCours, StringFormat='Note choisie : {0:0} / 5'}"
+                   FontSize="14"
+                   TextColor="White" />
+
+            <Button Text="Enregistrer ma note"
+                    Command="{Binding EnregistrerNoteCommand}" />
+
+            <Label Text="{Binding Message}"
+                   FontSize="14"
+                   TextColor="LightGreen"
+                   HorizontalOptions="Center" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

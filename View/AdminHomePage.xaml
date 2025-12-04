@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="View.AdminHomePage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:vm="clr-namespace:Bibliotheque.ViewModel;assembly=Bibliotheque.ViewModel"
+    x:DataType="vm:AdminHomeViewModel"
+    Title="Espace administrateur">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="20">
+
+            <Label Text="Espace administrateur"
+                   FontSize="28"
+                   HorizontalOptions="Center"
+                   FontAttributes="Bold" />
+
+            <!-- SECTION LIVRES -->
+            <Label Text="Gestion des livres"
+                   FontSize="20"
+                   FontAttributes="Bold" />
+
+            <Button Text="📚 Voir tous les livres"
+                    Command="{Binding GoToLivresCommand}" />
+
+            <Button Text="➕ Ajouter un livre"
+                    Command="{Binding GoToAjoutLivreCommand}" />
+
+            <Button Text="🗑️ Supprimer un livre"
+                    Command="{Binding GoToSuppressionLivreCommand}" />
+
+
+            <!-- SECTION UTILISATEURS -->
+            <Label Text="Gestion des utilisateurs"
+                   FontSize="20"
+                   FontAttributes="Bold"
+                   Margin="0,20,0,0" />
+
+            <Button Text="👤 Gérer les utilisateurs"
+                    Command="{Binding GoToUtilisateursCommand}" />
+
+
+            <!-- SECTION EVALUATIONS -->
+            <Label Text="Gestion des évaluations"
+                   FontSize="20"
+                   FontAttributes="Bold"
+                   Margin="0,20,0,0" />
+
+            <Button Text="⭐ Voir les évaluations"
+                    Command="{Binding GoToEvaluationsCommand}" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

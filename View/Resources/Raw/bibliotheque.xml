@@ -1,0 +1,834 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<Bibliotheque>
+	<Livres>
+		<Livre>
+			<Titre>Les Hauts de Hurlevent</Titre>
+			<Auteur>Emily Brontë</Auteur>
+			<ISBN>978-2-253-13061-7</ISBN>
+			<MaisonEdition>Le Livre de Poche</MaisonEdition>
+			<DatePublication>1847-01-01</DatePublication>
+			<Description>Roman romantique explorant les passions intenses et les luttes de pouvoir au sein d'une famille dans la lande sauvage du Yorkshire.</Description>
+			<MoyenneEvaluation>4.6</MoyenneEvaluation>
+			<NombreEvaluations>2</NombreEvaluations>
+		</Livre>
+
+		<Livre>
+			<Titre>L'Alchimiste</Titre>
+			<Auteur>Paulo Coelho</Auteur>
+			<ISBN>978-2-253-09812-8</ISBN>
+			<MaisonEdition>Le Livre de Poche</MaisonEdition>
+			<DatePublication>1988-01-01</DatePublication>
+			<Description>Roman philosophique racontant l'histoire de Santiago, un jeune berger espagnol en quête de son propre trésor spirituel à travers un voyage épique.</Description>
+			<MoyenneEvaluation>4.4</MoyenneEvaluation>
+			<NombreEvaluations>23</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Les Liaisons dangereuses</Titre>
+			<Auteur>Pierre Choderlos de Laclos</Auteur>
+			<ISBN>978-2-253-05009-5</ISBN>
+			<MaisonEdition>Le Livre de Poche</MaisonEdition>
+			<DatePublication>1782-01-01</DatePublication>
+			<Description>Épistolier où deux nobles manipulateurs, la Marquise de Merteuil et le Vicomte de Valmont, se livrent à un jeu de séduction et de trahison dans le monde libertin du XVIIIe siècle.</Description>
+			<MoyenneEvaluation>4.7</MoyenneEvaluation>
+			<NombreEvaluations>5</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Les Particules élémentaires</Titre>
+			<Auteur>Michel Houellebecq</Auteur>
+			<ISBN>978-2-07-040686-8</ISBN>
+			<MaisonEdition>Gallimard</MaisonEdition>
+			<DatePublication>1998-01-01</DatePublication>
+			<Description>Roman provocateur explorant les thèmes de l'individualisme moderne, de la génétique et de l'aliénation à travers les vies de deux demi-frères.</Description>
+			<MoyenneEvaluation>4.3</MoyenneEvaluation>
+			<NombreEvaluations>7</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Voyage au bout de la nuit</Titre>
+			<Auteur>Louis-Ferdinand Céline</Auteur>
+			<ISBN>978-2-07-036026-0</ISBN>
+			<MaisonEdition>Gallimard</MaisonEdition>
+			<DatePublication>1932-01-01</DatePublication>
+			<Description>Roman satirique et pessimiste suivant le parcours de Bardamu, un ancien combattant de la Première Guerre mondiale, à travers une Europe en crise.</Description>
+			<MoyenneEvaluation>4.5</MoyenneEvaluation>
+			<NombreEvaluations>1</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Le Seigneur des Anneaux</Titre>
+			<Auteur>J.R.R. Tolkien</Auteur>
+			<ISBN>978-2-07-061282-5</ISBN>
+			<MaisonEdition>Christian Bourgois Éditeur</MaisonEdition>
+			<DatePublication>1954-01-01</DatePublication>
+			<Description>Une épopée fantastique dans un monde peuplé d'elfes, de nains et d'anneaux magiques.</Description>
+			<MoyenneEvaluation>4.8</MoyenneEvaluation>
+			<NombreEvaluations>4</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Dune</Titre>
+			<Auteur>Frank Herbert</Auteur>
+			<ISBN>978-2-07-041573-0</ISBN>
+			<MaisonEdition>Robert Laffont</MaisonEdition>
+			<DatePublication>1965-01-01</DatePublication>
+			<Description>Une épopée interstellaire sur la planète désertique d'Arrakis, où se trouve l'épice précieuse.</Description>
+			<MoyenneEvaluation>4.7</MoyenneEvaluation>
+			<NombreEvaluations>3</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Le Chant de la rivière</Titre>
+			<Auteur>Wendy Delorme</Auteur>
+			<ISBN>978-2-07-041573-0</ISBN>
+			<MaisonEdition>Cambourakis</MaisonEdition>
+			<DatePublication>1984-01-01</DatePublication>
+			<Description>Une rivière raconte une histoire d’amour interdite à une écrivaine en panne d’inspiration dans les Alpes. Poétique, déchirant, sensuel et politique.</Description>
+			<MoyenneEvaluation>4.8</MoyenneEvaluation>
+			<NombreEvaluations>3</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Les Princes de l’étang aux finnois</Titre>
+			<Auteur>Lars Elling</Auteur>
+			<ISBN>978-2-07-041573-0</ISBN>
+			<MaisonEdition>Gallmeister</MaisonEdition>
+			<DatePublication>1984-01-01</DatePublication>
+			<Description>Un vieil homme raconte à son petit-fils ses escapades dans la nature avec son frère, avant la Grande Guerre.</Description>
+			<MoyenneEvaluation>4.3</MoyenneEvaluation>
+			<NombreEvaluations>8</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Le Petit Prince</Titre>
+			<Auteur>Antoine de Saint-Exupéry</Auteur>
+			<ISBN>978-2-207-26456-8</ISBN>
+			<MaisonEdition>Gallimard</MaisonEdition>
+			<DatePublication>1943-04-06</DatePublication>
+			<Description>Un conte philosophique et poétique racontant l'histoire d'un jeune prince voyageant de planète en planète, découvrant les complexités de la vie adulte.</Description>
+			<MoyenneEvaluation>5</MoyenneEvaluation>
+			<NombreEvaluations>5</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>1984</Titre>
+			<Auteur>George Orwell</Auteur>
+			<ISBN>978-2-07-036822-8</ISBN>
+			<MaisonEdition>Gallimard</MaisonEdition>
+			<DatePublication>1949-06-08</DatePublication>
+			<Description>Un roman dystopique décrivant un régime totalitaire où la pensée est contrôlée et la vérité est manipulée par le gouvernement.</Description>
+			<MoyenneEvaluation>4.5</MoyenneEvaluation>
+			<NombreEvaluations>66</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Harry Potter à l'école des sorciers</Titre>
+			<Auteur>J.K. Rowling</Auteur>
+			<ISBN>978-2-07-061236-8</ISBN>
+			<MaisonEdition>Gallimard</MaisonEdition>
+			<DatePublication>1998-10-01</DatePublication>
+			<Description>Premier livre de la série Harry Potter, racontant les aventures d'un jeune sorcier découvrant ses pouvoirs et affrontant le maléfique Voldemort.</Description>
+			<MoyenneEvaluation>4.8</MoyenneEvaluation>
+			<NombreEvaluations>2</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>L'Étranger</Titre>
+			<Auteur>Albert Camus</Auteur>
+			<ISBN>978-2-07-036002-4</ISBN>
+			<MaisonEdition>Gallimard</MaisonEdition>
+			<DatePublication>1942-01-01</DatePublication>
+			<Description>Roman philosophique où un homme indifférent à la société et aux conventions sociales se confronte à l'absurdité de l'existence.</Description>
+			<MoyenneEvaluation>4.1</MoyenneEvaluation>
+			<NombreEvaluations>1</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Les Misérables</Titre>
+			<Auteur>Victor Hugo</Auteur>
+			<ISBN>978-2-253-12200-1</ISBN>
+			<MaisonEdition>Le Livre de Poche</MaisonEdition>
+			<DatePublication>1862-01-01</DatePublication>
+			<Description>Un chef-d'œuvre de la littérature française décrivant la vie de plusieurs personnages, notamment Jean Valjean, dans la France du 19e siècle.</Description>
+			<MoyenneEvaluation>4.9</MoyenneEvaluation>
+			<NombreEvaluations>1</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Fondation</Titre>
+			<Auteur>Isaac Asimov</Auteur>
+			<ISBN>978-2-07-036822-8</ISBN>
+			<MaisonEdition>Gallimard</MaisonEdition>
+			<DatePublication>1951-01-01</DatePublication>
+			<Description>L'histoire de la Fondation, une organisation scientifique cherchant à préserver la connaissance dans un empire galactique en déclin.</Description>
+			<MoyenneEvaluation>3.5</MoyenneEvaluation>
+			<NombreEvaluations>2</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Neuromancien</Titre>
+			<Auteur>William Gibson</Auteur>
+			<ISBN>978-2-07-041573-0</ISBN>
+			<MaisonEdition>J'ai lu</MaisonEdition>
+			<DatePublication>1984-01-01</DatePublication>
+			<Description>Un roman cyberpunk qui a popularisé le terme "matrice" et exploré les mondes virtuels et la cybernétique.</Description>
+			<MoyenneEvaluation>4.3</MoyenneEvaluation>
+			<NombreEvaluations>1</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Le Seigneur des Anneaux</Titre>
+			<Auteur>J.R.R. Tolkien</Auteur>
+			<ISBN>978-2-07-033036-5</ISBN>
+			<MaisonEdition>Christian Bourgois Éditeur</MaisonEdition>
+			<DatePublication>1954-07-29</DatePublication>
+			<Description>Trilogie épique de fantasy racontant la quête de Frodo pour détruire l'Anneau Unique et sauver la Terre du Milieu du maléfique Sauron.</Description>
+			<MoyenneEvaluation>4.7</MoyenneEvaluation>
+			<NombreEvaluations>1</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Crime et châtiment</Titre>
+			<Auteur>Fiodor Dostoïevski</Auteur>
+			<ISBN>978-2-07-040458-2</ISBN>
+			<MaisonEdition>Gallimard</MaisonEdition>
+			<DatePublication>1866-01-01</DatePublication>
+			<Description>Roman explorant les profondeurs de la psyché humaine à travers l'histoire d'un étudiant tourmenté par la culpabilité après un meurtre.</Description>
+			<MoyenneEvaluation>4.8</MoyenneEvaluation>
+			<NombreEvaluations>12</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Orgueil et Préjugés</Titre>
+			<Auteur>Jane Austen</Auteur>
+			<ISBN>978-2-07-040968-6</ISBN>
+			<MaisonEdition>Gallimard</MaisonEdition>
+			<DatePublication>1813-01-28</DatePublication>
+			<Description>Classique de la littérature anglaise mettant en scène la relation complexe entre Elizabeth Bennet et Mr. Darcy dans la société britannique du 19e siècle.</Description>
+			<MoyenneEvaluation>2.7</MoyenneEvaluation>
+			<NombreEvaluations>13</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Sapiens : Une brève histoire de l'humanité</Titre>
+			<Auteur>Yuval Noah Harari</Auteur>
+			<ISBN>978-2-221-19592-3</ISBN>
+			<MaisonEdition>Albin Michel</MaisonEdition>
+			<DatePublication>2011-04-20</DatePublication>
+			<Description>Essai historique retraçant l'évolution de l'espèce humaine depuis les premiers hominidés jusqu'à l'ère moderne, explorant les grands bouleversements de notre histoire.</Description>
+			<MoyenneEvaluation>4.5</MoyenneEvaluation>
+			<NombreEvaluations>2</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Les Fleurs du Mal</Titre>
+			<Auteur>Charles Baudelaire</Auteur>
+			<ISBN>978-2-07-038255-2</ISBN>
+			<MaisonEdition>Gallimard</MaisonEdition>
+			<DatePublication>1857-06-25</DatePublication>
+			<Description>Recueil de poèmes majeur de la littérature française, explorant la beauté, la laideur et la dualité de l'âme humaine.</Description>
+			<MoyenneEvaluation>4.9</MoyenneEvaluation>
+			<NombreEvaluations>1</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Le Guépard</Titre>
+			<Auteur>Giuseppe Tomasi di Lampedusa</Auteur>
+			<ISBN>978-2-07-036023-9</ISBN>
+			<MaisonEdition>Gallimard</MaisonEdition>
+			<DatePublication>1958-10-06</DatePublication>
+			<Description>Roman historique italien se déroulant pendant l'unification italienne, explorant la fin d'une époque aristocratique et les changements sociaux.</Description>
+			<MoyenneEvaluation>3.6</MoyenneEvaluation>
+			<NombreEvaluations>25</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>La Nuit des temps</Titre>
+			<Auteur>René Barjavel</Auteur>
+			<ISBN>978-2-253-04748-4</ISBN>
+			<MaisonEdition>Le Livre de Poche</MaisonEdition>
+			<DatePublication>1968-01-01</DatePublication>
+			<Description>Roman de science-fiction racontant la découverte d'un couple congelé depuis des milliers d'années, révélant une civilisation avancée du passé.</Description>
+			<MoyenneEvaluation>4.7</MoyenneEvaluation>
+			<NombreEvaluations>7</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Le Petit Prince</Titre>
+			<Auteur>Antoine de Saint-Exupéry</Auteur>
+			<ISBN>978-2-207-26456-8</ISBN>
+			<MaisonEdition>Gallimard</MaisonEdition>
+			<DatePublication>1943-04-06</DatePublication>
+			<Description>Un conte philosophique et poétique racontant l'histoire d'un jeune prince voyageant de planète en planète, découvrant les complexités de la vie adulte.</Description>
+			<MoyenneEvaluation>5</MoyenneEvaluation>
+			<NombreEvaluations>1</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>1984</Titre>
+			<Auteur>George Orwell</Auteur>
+			<ISBN>978-2-07-036822-8</ISBN>
+			<MaisonEdition>Gallimard</MaisonEdition>
+			<DatePublication>1949-06-08</DatePublication>
+			<Description>Un roman dystopique décrivant un régime totalitaire où la pensée est contrôlée et la vérité est manipulée par le gouvernement.</Description>
+			<MoyenneEvaluation>4.5</MoyenneEvaluation>
+			<NombreEvaluations>10</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>L'Étranger</Titre>
+			<Auteur>Albert Camus</Auteur>
+			<ISBN>978-2-07-036002-4</ISBN>
+			<MaisonEdition>Gallimard</MaisonEdition>
+			<DatePublication>1942-01-01</DatePublication>
+			<Description>Roman philosophique où un homme indifférent à la société et aux conventions sociales se confronte à l'absurdité de l'existence.</Description>
+			<MoyenneEvaluation>4.6</MoyenneEvaluation>
+			<NombreEvaluations>32</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Les Misérables</Titre>
+			<Auteur>Victor Hugo</Auteur>
+			<ISBN>978-2-253-12200-1</ISBN>
+			<MaisonEdition>Le Livre de Poche</MaisonEdition>
+			<DatePublication>1862-01-01</DatePublication>
+			<Description>Un chef-d'œuvre de la littérature française décrivant la vie de plusieurs personnages, notamment Jean Valjean, dans la France du 19e siècle.</Description>
+			<MoyenneEvaluation>4.9</MoyenneEvaluation>
+			<NombreEvaluations>33</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Le Seigneur des Anneaux</Titre>
+			<Auteur>J.R.R. Tolkien</Auteur>
+			<ISBN>978-2-07-033036-5</ISBN>
+			<MaisonEdition>Christian Bourgois Éditeur</MaisonEdition>
+			<DatePublication>1954-07-29</DatePublication>
+			<Description>Trilogie épique de fantasy racontant la quête de Frodo pour détruire l'Anneau Unique et sauver la Terre du Milieu du maléfique Sauron.</Description>
+			<MoyenneEvaluation>4.7</MoyenneEvaluation>
+			<NombreEvaluations>31</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Der Vorleser</Titre>
+			<Auteur>Bernhard Schlink</Auteur>
+			<ISBN>978-3257229532</ISBN>
+			<MaisonEdition>Diogenes</MaisonEdition>
+			<DatePublication>1995-08-01</DatePublication>
+			<Description>Ein Roman, der die komplexe Beziehung zwischen einem jungen Mann und einer älteren Frau in der Nachkriegszeit Deutschlands erforscht, mit tiefen moralischen und ethischen Fragen.</Description>
+			<MoyenneEvaluation>3.4</MoyenneEvaluation>
+			<NombreEvaluations>6</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Die Leiden des jungen Werthers</Titre>
+			<Auteur>Johann Wolfgang von Goethe</Auteur>
+			<ISBN>978-3150000013</ISBN>
+			<MaisonEdition>Reclam</MaisonEdition>
+			<DatePublication>1774-09-29</DatePublication>
+			<Description>Ein epistolarischer Roman, der die unglückliche Liebe des jungen Werther zu Lotte schildert und eine Welle von Werther-Fieber in Europa auslöste.</Description>
+			<MoyenneEvaluation>2.2</MoyenneEvaluation>
+			<NombreEvaluations>2</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>To Kill a Mockingbird</Titre>
+			<Auteur>Harper Lee</Auteur>
+			<ISBN>978-0060935467</ISBN>
+			<MaisonEdition>Harper Perennial Modern Classics</MaisonEdition>
+			<DatePublication>1960-07-11</DatePublication>
+			<Description>A classic of modern American literature depicting racial injustice and moral growth through the eyes of Scout Finch, a young girl in the Depression-era South.</Description>
+			<MoyenneEvaluation>4.5</MoyenneEvaluation>
+			<NombreEvaluations>21</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>The Great Gatsby</Titre>
+			<Auteur>F. Scott Fitzgerald</Auteur>
+			<ISBN>978-0743273565</ISBN>
+			<MaisonEdition>Scribner</MaisonEdition>
+			<DatePublication>1925-04-10</DatePublication>
+			<Description>A novel set in the Jazz Age, narrated by Nick Carraway, exploring themes of decadence, idealism, resistance to change, social upheaval, and excess.</Description>
+			<MoyenneEvaluation>4.3</MoyenneEvaluation>
+			<NombreEvaluations>24</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Die Blechtrommel</Titre>
+			<Auteur>Günter Grass</Auteur>
+			<ISBN>978-3423113472</ISBN>
+			<MaisonEdition>Deutscher Taschenbuch Verlag</MaisonEdition>
+			<DatePublication>1959-09-01</DatePublication>
+			<Description>Ein postmoderner Roman, der die Geschichte von Oskar Matzerath erzählt, einem Jungen, der sich entscheidet, nicht weiter zu wachsen und seine Umgebung durch seinen Trommelschlag zu beeinflussen.</Description>
+			<MoyenneEvaluation>3.3</MoyenneEvaluation>
+			<NombreEvaluations>13</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Im Westen nichts Neues</Titre>
+			<Auteur>Erich Maria Remarque</Auteur>
+			<ISBN>978-3-499-10408-1</ISBN>
+			<MaisonEdition>Fischer Taschenbuch Verlag</MaisonEdition>
+			<DatePublication>1929-01-01</DatePublication>
+			<Description>Ein Anti-Kriegsroman, der die Erlebnisse einer Gruppe deutscher Soldaten im Ersten Weltkrieg beschreibt und die Sinnlosigkeit und Grausamkeit des Krieges aufzeigt.</Description>
+			<MoyenneEvaluation>4.7</MoyenneEvaluation>
+			<NombreEvaluations>3</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Crime et châtiment</Titre>
+			<Auteur>Fiodor Dostoïevski</Auteur>
+			<ISBN>978-2-07-040458-2</ISBN>
+			<MaisonEdition>Gallimard</MaisonEdition>
+			<DatePublication>1866-01-01</DatePublication>
+			<Description>Roman explorant les profondeurs de la psyché humaine à travers l'histoire d'un étudiant tourmenté par la culpabilité après un meurtre.</Description>
+			<MoyenneEvaluation>4.8</MoyenneEvaluation>
+			<NombreEvaluations>26</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>El amor en los tiempos del cólera</Titre>
+			<Auteur>Gabriel García Márquez</Auteur>
+			<ISBN>978-84-08-08972-7</ISBN>
+			<MaisonEdition>Sudamericana</MaisonEdition>
+			<DatePublication>1985-01-01</DatePublication>
+			<Description>Historia de amor que transcurre en un pueblo caribeño y abarca más de medio siglo, explorando temas de pasión, envejecimiento y perseverancia.</Description>
+			<MoyenneEvaluation>3</MoyenneEvaluation>
+			<NombreEvaluations>8</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>1984</Titre>
+			<Auteur>George Orwell</Auteur>
+			<ISBN>978-0451524935</ISBN>
+			<MaisonEdition>Signet Classic</MaisonEdition>
+			<DatePublication>1949-06-08</DatePublication>
+			<Description>A dystopian novel depicting a totalitarian regime where critical thought is suppressed under Big Brother's rule, exploring surveillance, propaganda, and control.</Description>
+			<MoyenneEvaluation>4.5</MoyenneEvaluation>
+			<NombreEvaluations>13</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Pride and Prejudice</Titre>
+			<Auteur>Jane Austen</Auteur>
+			<ISBN>978-0141439518</ISBN>
+			<MaisonEdition>Penguin Classics</MaisonEdition>
+			<DatePublication>1813-01-28</DatePublication>
+			<Description>A classic novel exploring the societal issues of marriage, class, and reputation through the story of Elizabeth Bennet and Mr. Darcy in Regency-era England.</Description>
+			<MoyenneEvaluation>4.6</MoyenneEvaluation>
+			<NombreEvaluations>8</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>The Catcher in the Rye</Titre>
+			<Auteur>J.D. Salinger</Auteur>
+			<ISBN>978-0316769488</ISBN>
+			<MaisonEdition>Back Bay Books</MaisonEdition>
+			<DatePublication>1951-07-16</DatePublication>
+			<Description>A novel narrated by Holden Caulfield, a teenager disillusioned by the phoniness of the adult world, exploring themes of innocence, identity, and alienation.</Description>
+			<MoyenneEvaluation>4.1</MoyenneEvaluation>
+			<NombreEvaluations>7</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Orgueil et Préjugés</Titre>
+			<Auteur>Jane Austen</Auteur>
+			<ISBN>978-2-07-040968-6</ISBN>
+			<MaisonEdition>Gallimard</MaisonEdition>
+			<DatePublication>1813-01-28</DatePublication>
+			<Description>Classique de la littérature anglaise mettant en scène la relation complexe entre Elizabeth Bennet et Mr. Darcy dans la société britannique du 19e siècle.</Description>
+			<MoyenneEvaluation>3.7</MoyenneEvaluation>
+			<NombreEvaluations>25</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Sapiens : Une brève histoire de l'humanité</Titre>
+			<Auteur>Yuval Noah Harari</Auteur>
+			<ISBN>978-2-221-19592-3</ISBN>
+			<MaisonEdition>Albin Michel</MaisonEdition>
+			<DatePublication>2011-04-20</DatePublication>
+			<Description>Essai historique retraçant l'évolution de l'espèce humaine depuis les premiers hominidés jusqu'à l'ère moderne, explorant les grands bouleversements de notre histoire.</Description>
+			<MoyenneEvaluation>4.5</MoyenneEvaluation>
+			<NombreEvaluations>20</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Les Fleurs du Mal</Titre>
+			<Auteur>Charles Baudelaire</Auteur>
+			<ISBN>978-2-07-038255-2</ISBN>
+			<MaisonEdition>Gallimard</MaisonEdition>
+			<DatePublication>1857-06-25</DatePublication>
+			<Description>Recueil de poèmes majeur de la littérature française, explorant la beauté, la laideur et la dualité de l'âme humaine.</Description>
+			<MoyenneEvaluation>4.9</MoyenneEvaluation>
+			<NombreEvaluations>10</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Le Guépard</Titre>
+			<Auteur>Giuseppe Tomasi di Lampedusa</Auteur>
+			<ISBN>978-2-07-036023-9</ISBN>
+			<MaisonEdition>Gallimard</MaisonEdition>
+			<DatePublication>1958-10-06</DatePublication>
+			<Description>Roman historique italien se déroulant pendant l'unification italienne, explorant la fin d'une époque aristocratique et les changements sociaux.</Description>
+			<MoyenneEvaluation>4.6</MoyenneEvaluation>
+			<NombreEvaluations>15</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>La Nuit des temps</Titre>
+			<Auteur>René Barjavel</Auteur>
+			<ISBN>978-2-253-04748-4</ISBN>
+			<MaisonEdition>Le Livre de Poche</MaisonEdition>
+			<DatePublication>1968-01-01</DatePublication>
+			<Description>Roman de science-fiction racontant la découverte d'un couple congelé depuis des milliers d'années, révélant une civilisation avancée du passé.</Description>
+			<MoyenneEvaluation>4.7</MoyenneEvaluation>
+			<NombreEvaluations>30</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Don Quichotte</Titre>
+			<Auteur>Miguel de Cervantes</Auteur>
+			<ISBN>978-2-253-04811-5</ISBN>
+			<MaisonEdition>Le Livre de Poche</MaisonEdition>
+			<DatePublication>1605-01-01</DatePublication>
+			<Description>Roman parodique racontant les aventures d'un chevalier errant idéaliste et de son écuyer, devenu un classique de la littérature espagnole.</Description>
+			<MoyenneEvaluation>4.8</MoyenneEvaluation>
+			<NombreEvaluations>5</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Les Mille et Une Nuits</Titre>
+			<Auteur>Anonyme</Auteur>
+			<ISBN>978-2-253-05207-5</ISBN>
+			<MaisonEdition>Le Livre de Poche</MaisonEdition>
+			<DatePublication>0800-01-01</DatePublication>
+			<Description>Recueil de contes orientaux racontant des histoires merveilleuses de djinns, de princes et de princesses, traduites et adaptées à travers les siècles.</Description>
+			<MoyenneEvaluation>4.6</MoyenneEvaluation>
+			<NombreEvaluations>11</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Les Trois Mousquetaires</Titre>
+			<Auteur>Alexandre Dumas</Auteur>
+			<ISBN>978-2-253-10979-0</ISBN>
+			<MaisonEdition>Le Livre de Poche</MaisonEdition>
+			<DatePublication>1844-01-01</DatePublication>
+			<Description>Roman d'aventure mettant en scène les exploits de d'Artagnan et de ses amis mousquetaires dans la France du 17e siècle.</Description>
+			<MoyenneEvaluation>4.7</MoyenneEvaluation>
+			<NombreEvaluations>23</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Les Rois maudits</Titre>
+			<Auteur>Maurice Druon</Auteur>
+			<ISBN>978-2-253-14375-8</ISBN>
+			<MaisonEdition>Le Livre de Poche</MaisonEdition>
+			<DatePublication>1955-01-01</DatePublication>
+			<Description>Saga historique retraçant les intrigues et les luttes de pouvoir au sein de la royauté française pendant le règne des derniers Capétiens.</Description>
+			<MoyenneEvaluation>3.5</MoyenneEvaluation>
+			<NombreEvaluations>19</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Cien años de soledad</Titre>
+			<Auteur>Gabriel García Márquez</Auteur>
+			<ISBN>978-84-376-0494-7</ISBN>
+			<MaisonEdition>Círculo de Lectores</MaisonEdition>
+			<DatePublication>1967-05-30</DatePublication>
+			<Description>Obra maestra del realismo mágico que narra la historia de la familia Buendía a lo largo de siete generaciones en el ficticio pueblo de Macondo, en América Latina.</Description>
+			<MoyenneEvaluation>3.8</MoyenneEvaluation>
+			<NombreEvaluations>22</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Don Quijote de la Mancha</Titre>
+			<Auteur>Miguel de Cervantes</Auteur>
+			<ISBN>978-84-376-0173-1</ISBN>
+			<MaisonEdition>Castalia</MaisonEdition>
+			<DatePublication>1605-01-01</DatePublication>
+			<Description>Novela paródica que cuenta las aventuras de Don Quijote, un caballero andante que busca revivir la caballería en la España del Siglo de Oro.</Description>
+			<MoyenneEvaluation>4.7</MoyenneEvaluation>
+			<NombreEvaluations>17</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>La Peste</Titre>
+			<Auteur>Albert Camus</Auteur>
+			<ISBN>978-2-07-036042-0</ISBN>
+			<MaisonEdition>Gallimard</MaisonEdition>
+			<DatePublication>1947-06-10</DatePublication>
+			<Description>Roman existentialiste décrivant une épidémie de peste dans la ville d'Oran et explorant les réactions des habitants face à l'adversité.</Description>
+			<MoyenneEvaluation>4.6</MoyenneEvaluation>
+			<NombreEvaluations>22</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Les Rêveries du promeneur solitaire</Titre>
+			<Auteur>Jean-Jacques Rousseau</Auteur>
+			<ISBN>978-2-07-037392-5</ISBN>
+			<MaisonEdition>Gallimard</MaisonEdition>
+			<DatePublication>1782-01-01</DatePublication>
+			<Description>Œuvre autobiographique où Rousseau médite sur la nature humaine, la société et la solitude à travers ses promenades contemplatives.</Description>
+			<MoyenneEvaluation>3.4</MoyenneEvaluation>
+			<NombreEvaluations>5</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Moby Dick</Titre>
+			<Auteur>Herman Melville</Auteur>
+			<ISBN>978-2-253-18565-6</ISBN>
+			<MaisonEdition>Le Livre de Poche</MaisonEdition>
+			<DatePublication>1851-10-18</DatePublication>
+			<Description>Roman épique racontant la quête obsessionnelle du capitaine Achab pour traquer et tuer la baleine blanche, Moby Dick.</Description>
+			<MoyenneEvaluation>2.7</MoyenneEvaluation>
+			<NombreEvaluations>2</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Les Enfants de la Terre, tome 1 : Le Clan de l'Ours des Cavernes</Titre>
+			<Auteur>Jean M. Auel</Auteur>
+			<ISBN>978-2-253-14433-5</ISBN>
+			<MaisonEdition>Le Livre de Poche</MaisonEdition>
+			<DatePublication>1980-01-01</DatePublication>
+			<Description>Roman préhistorique racontant l'histoire d'Ayla, une jeune femme de la préhistoire qui lutte pour survivre et trouver sa place dans un monde hostile.</Description>
+			<MoyenneEvaluation>4.5</MoyenneEvaluation>
+			<NombreEvaluations>6</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Cent ans de solitude</Titre>
+			<Auteur>Gabriel García Márquez</Auteur>
+			<ISBN>978-2-07-036822-8</ISBN>
+			<MaisonEdition>Gallimard</MaisonEdition>
+			<DatePublication>1967-05-30</DatePublication>
+			<Description>Chef-d'œuvre du réalisme magique racontant l'histoire de la famille Buendía sur sept générations dans le village fictif de Macondo en Amérique latine.</Description>
+			<MoyenneEvaluation>4.8</MoyenneEvaluation>
+			<NombreEvaluations>5</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>La casa de los espíritus</Titre>
+			<Auteur>Isabel Allende</Auteur>
+			<ISBN>978-84-08-01867-9</ISBN>
+			<MaisonEdition>Sudamericana</MaisonEdition>
+			<DatePublication>1982-01-01</DatePublication>
+			<Description>Novela que abarca varias generaciones de la familia Trueba en un país sudamericano no identificado, tejiendo elementos de realismo mágico y política.</Description>
+			<MoyenneEvaluation>4.5</MoyenneEvaluation>
+			<NombreEvaluations>9</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>La sombra del viento</Titre>
+			<Auteur>Carlos Ruiz Zafón</Auteur>
+			<ISBN>978-84-08-00111-4</ISBN>
+			<MaisonEdition>Planeta</MaisonEdition>
+			<DatePublication>2001-04-01</DatePublication>
+			<Description>Novela ambientada en la posguerra española, donde un joven descubre un libro misterioso que lo lleva a investigar la vida del autor, Daniel Sempere.</Description>
+			<MoyenneEvaluation>4.6</MoyenneEvaluation>
+			<NombreEvaluations>5</NombreEvaluations>
+		</Livre>
+		<Livre>
+			<Titre>Das Parfum</Titre>
+			<Auteur>Patrick Süskind</Auteur>
+			<ISBN>978-3257228009</ISBN>
+			<MaisonEdition>Diogenes</MaisonEdition>
+			<DatePublication>1985-09-01</DatePublication>
+			<Description>Ein literarischer Thriller über Jean-Baptiste Grenouille, einen Perfektionisten, der nach dem perfekten Duft sucht und dabei zu extremen Mitteln greift.</Description>
+			<MoyenneEvaluation>4.6</MoyenneEvaluation>
+			<NombreEvaluations>15</NombreEvaluations>
+		</Livre>
+	</Livres>
+	<Comptes>
+		<Compte>
+			<Email>admin@exemple.com</Email>
+			<MotDePasse>3GP</MotDePasse>
+			<Nom>Administrateur</Nom>
+			<Prenom>Principal</Prenom>
+		</Compte>
+		<Compte>
+			<Email>naim.himrane@bdeb.qc.ca</Email>
+			<MotDePasse>3gp</MotDePasse>
+			<Nom>Naïm</Nom>
+			<Prenom>Himrane</Prenom>
+		</Compte>
+		<Compte>
+			<Email>alice.dupont@exemple.com</Email>
+			<MotDePasse>VJQl</MotDePasse>
+			<Nom>Dupont</Nom>
+			<Prenom>Alice</Prenom>
+		</Compte>
+		<Compte>
+			<Email>bob.martin@exemple.com</Email>
+			<MotDePasse>Ibd</MotDePasse>
+			<Nom>Martin</Nom>
+			<Prenom>Bob</Prenom>
+		</Compte>
+		<Compte>
+			<Email>claire.lefebvre@exemple.com</Email>
+			<MotDePasse>aBS</MotDePasse>
+			<Nom>Lefebvre</Nom>
+			<Prenom>Claire</Prenom>
+		</Compte>
+		<Compte>
+			<Email>john.doe@exemple.com</Email>
+			<MotDePasse>QGA</MotDePasse>
+			<Nom>Doe</Nom>
+			<Prenom>John</Prenom>
+		</Compte>
+		<Compte>
+			<Email>jane.smith@exemple.com</Email>
+			<MotDePasse>jAy</MotDePasse>
+			<Nom>Smith</Nom>
+			<Prenom>Jane</Prenom>
+		</Compte>
+		<Compte>
+			<Email>alex.brown@exemple.com</Email>
+			<MotDePasse>V7AY</MotDePasse>
+			<Nom>Brown</Nom>
+			<Prenom>Alex</Prenom>
+		</Compte>
+		<Compte>
+			<Email>emily.wilson@exemple.com</Email>
+			<MotDePasse>d8a</MotDePasse>
+			<Nom>Wilson</Nom>
+			<Prenom>Emily</Prenom>
+		</Compte>
+		<Compte>
+			<Email>michael.johnson@exemple.com</Email>
+			<MotDePasse>6ph</MotDePasse>
+			<Nom>Johnson</Nom>
+			<Prenom>Michael</Prenom>
+		</Compte>
+		<Compte>
+			<Email>laura.martin@exemple.com</Email>
+			<MotDePasse>LXJh</MotDePasse>
+			<Nom>Martin</Nom>
+			<Prenom>Laura</Prenom>
+		</Compte>
+		<Compte>
+			<Email>david.anderson@exemple.com</Email>
+			<MotDePasse>jKe</MotDePasse>
+			<Nom>Anderson</Nom>
+			<Prenom>David</Prenom>
+		</Compte>
+		<Compte>
+			<Email>sophia.thomas@exemple.com</Email>
+			<MotDePasse>oZ92</MotDePasse>
+			<Nom>Thomas</Nom>
+			<Prenom>Sophia</Prenom>
+		</Compte>
+		<Compte>
+			<Email>william.robinson@exemple.com</Email>
+			<MotDePasse>Rkx</MotDePasse>
+			<Nom>Robinson</Nom>
+			<Prenom>William</Prenom>
+		</Compte>
+		<Compte>
+			<Email>olivia.hall@exemple.com</Email>
+			<MotDePasse>M9w</MotDePasse>
+			<Nom>Hall</Nom>
+			<Prenom>Olivia</Prenom>
+		</Compte>
+		<Compte>
+			<Email>james.lewis@exemple.com</Email>
+			<MotDePasse>U6O</MotDePasse>
+			<Nom>Lewis</Nom>
+			<Prenom>James</Prenom>
+		</Compte>
+		<Compte>
+			<Email>ava.jackson@exemple.com</Email>
+			<MotDePasse>uaN</MotDePasse>
+			<Nom>Jackson</Nom>
+			<Prenom>Ava</Prenom>
+		</Compte>
+		<Compte>
+			<Email>ethan.harris@exemple.com</Email>
+			<MotDePasse>Ak1</MotDePasse>
+			<Nom>Harris</Nom>
+			<Prenom>Ethan</Prenom>
+		</Compte>
+		<Compte>
+			<Email>tamtam.sami@exemple.com</Email>
+			<MotDePasse>KKa</MotDePasse>
+			<Nom>Sami</Nom>
+			<Prenom>Tamtam</Prenom>
+		</Compte>
+		<Compte>
+			<Email>mia.white@exemple.com</Email>
+			<MotDePasse>2HR</MotDePasse>
+			<Nom>White</Nom>
+			<Prenom>Mia</Prenom>
+		</Compte>
+		<Compte>
+			<Email>alexander.moore@exemple.com</Email>
+			<MotDePasse>OHB</MotDePasse>
+			<Nom>Moore</Nom>
+			<Prenom>Alexander</Prenom>
+		</Compte>
+		<Compte>
+			<Email>chloe.clark@exemple.com</Email>
+			<MotDePasse>gek</MotDePasse>
+			<Nom>Clark</Nom>
+			<Prenom>Chloe</Prenom>
+		</Compte>
+		<Compte>
+			<Email>daniel.green@exemple.com</Email>
+			<MotDePasse>kVFR</MotDePasse>
+			<Nom>Green</Nom>
+			<Prenom>Daniel</Prenom>
+		</Compte>
+		<Compte>
+			<Email>emily.baker@exemple.com</Email>
+			<MotDePasse>Vey</MotDePasse>
+			<Nom>Baker</Nom>
+			<Prenom>Emily</Prenom>
+		</Compte>
+		<Compte>
+			<Email>logan.hall@exemple.com</Email>
+			<MotDePasse>YJjx</MotDePasse>
+			<Nom>Hall</Nom>
+			<Prenom>Logan</Prenom>
+		</Compte>
+		<Compte>
+			<Email>grace.mitchell@exemple.com</Email>
+			<MotDePasse>PFPJ</MotDePasse>
+			<Nom>Mitchell</Nom>
+			<Prenom>Grace</Prenom>
+		</Compte>
+		<Compte>
+			<Email>jacob.carter@exemple.com</Email>
+			<MotDePasse>SrB</MotDePasse>
+			<Nom>Carter</Nom>
+			<Prenom>Jacob</Prenom>
+		</Compte>
+		<Compte>
+			<Email>abigail.ward@exemple.com</Email>
+			<MotDePasse>3vju</MotDePasse>
+			<Nom>Ward</Nom>
+			<Prenom>Abigail</Prenom>
+		</Compte>
+		<Compte>
+			<Email>noah.turner@exemple.com</Email>
+			<MotDePasse>86d</MotDePasse>
+			<Nom>Turner</Nom>
+			<Prenom>Noah</Prenom>
+		</Compte>
+		<Compte>
+			<Email>sophia.hughes@exemple.com</Email>
+			<MotDePasse>DE9</MotDePasse>
+			<Nom>Hughes</Nom>
+			<Prenom>Sophia</Prenom>
+		</Compte>
+		<Compte>
+			<Email>william.russell@exemple.com</Email>
+			<MotDePasse>33d9</MotDePasse>
+			<Nom>Russell</Nom>
+			<Prenom>William</Prenom>
+		</Compte>
+		<Compte>
+			<Email>david.tremblay@exemple.com</Email>
+			<MotDePasse>aDVc</MotDePasse>
+			<Nom>Tremblay</Nom>
+			<Prenom>David</Prenom>
+		</Compte>
+		<Compte>
+			<Email>emilie.gagnon@exemple.com</Email>
+			<MotDePasse>JYch</MotDePasse>
+			<Nom>Gagnon</Nom>
+			<Prenom>Émilie</Prenom>
+		</Compte>
+		<Compte>
+			<Email>francois.lavoie@exemple.com</Email>
+			<MotDePasse>N9n</MotDePasse>
+			<Nom>Lavoie</Nom>
+			<Prenom>François</Prenom>
+		</Compte>
+		<Compte>
+			<Email>genevieve.roy@exemple.com</Email>
+			<MotDePasse>e2tl</MotDePasse>
+			<Nom>Roy</Nom>
+			<Prenom>Geneviève</Prenom>
+		</Compte>
+		<Compte>
+			<Email>hugo.bergeron@exemple.com</Email>
+			<MotDePasse>AqX</MotDePasse>
+			<Nom>Bergeron</Nom>
+			<Prenom>Hugo</Prenom>
+		</Compte>
+		<Compte>
+			<Email>isabelle.leclerc@exemple.com</Email>
+			<MotDePasse>FVmS</MotDePasse>
+			<Nom>Leclerc</Nom>
+			<Prenom>Isabelle</Prenom>
+		</Compte>
+		<Compte>
+			<Email>jean.martel@exemple.com</Email>
+			<MotDePasse>P2W</MotDePasse>
+			<Nom>Martel</Nom>
+			<Prenom>Jean</Prenom>
+		</Compte>
+		<Compte>
+			<Email>karine.dufour@exemple.com</Email>
+			<MotDePasse>TGun</MotDePasse>
+			<Nom>Dufour</Nom>
+			<Prenom>Karine</Prenom>
+		</Compte>
+		<Compte>
+			<Email>luc.beauchemin@exemple.com</Email>
+			<MotDePasse>P0E</MotDePasse>
+			<Nom>Beauchemin</Nom>
+			<Prenom>Luc</Prenom>
+		</Compte>
+		<Compte>
+			<Email>marie.levesque@exemple.com</Email>
+			<MotDePasse>27c6</MotDePasse>
+			<Nom>Lévesque</Nom>
+			<Prenom>Marie</Prenom>
+		</Compte>
+	</Comptes>
+</Bibliotheque>
