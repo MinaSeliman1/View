@@ -18,6 +18,8 @@ namespace Bibliotheque.ViewModel
             _favorisService = favorisService;
             Favoris = new ObservableCollection<Livre>();
             ChargerFavorisCommand = new Command(async () => await ChargerFavorisAsync(), () => !EstEnChargement);
+            // Lecture de l'email de l'utilisateur connecté au moment de l'instanciation
+            EmailClient = SessionUtilisateur.CourrielConnecte ?? string.Empty;
         }
 
         public string EmailClient

@@ -29,7 +29,11 @@ public partial class DetailLivrePage : ContentPage
         var cheminXml = Path.Combine(AppContext.BaseDirectory, "bibliotheque.xml");
         var service = new BibliothequeXmlService(cheminXml);
 
-        _viewModel = new DetailLivreViewModel(service);
+        // Configuration du service Favoris
+        var cheminFavoris = Path.Combine(AppContext.BaseDirectory, "favoris.xml");
+        var favorisService = new FavorisService(cheminFavoris); // Instanciation du FavorisService
+
+        _viewModel = new DetailLivreViewModel(service, favorisService); // Injection des deux services
         BindingContext = _viewModel;
     }
 
