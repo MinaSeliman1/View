@@ -57,8 +57,9 @@ namespace Bibliotheque.ViewModel
                 Message = string.Empty;
 
                 // ===================== CAS ADMIN =====================
+                // Correction : Le mot de passe requis est 420-3GP
                 if (Email == "admin@exemple.com" &&
-                    MotDePasse == "420-3GP420-3GP" || MotDePasse == "3GP")
+                    MotDePasse == "420-3GP")
                 {
                     SessionUtilisateur.CourrielConnecte = Email;
                     SessionUtilisateur.EstAdmin = true;
