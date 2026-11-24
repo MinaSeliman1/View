@@ -149,4 +149,4 @@ _Captures d'écran à venir._
 
 **Mina Seliman** — étudiant en Techniques de l'informatique, profil Génie logiciel
 
-[GitHub](https://github.com/MinaSeliman1) · [LinkedIn](https://linkedin.com/in/mina-seliman)
+[GitHub](https://github.com/MinaSeliman1) · [LinkedIn](https://www.linkedin.com/in/minaseliman)
